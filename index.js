@@ -1,3 +1,3 @@
 let message = 'welcome students!! ';
 
-console.log(message) ;
+console.log(message);
